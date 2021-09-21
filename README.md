@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kavinkumar-ait
 - 👀 I’m interested in computer,technology
-- 🌱 I’m currently learning iOD developement
+- 🌱 I’m currently learning iOS developement
 - 💞️ I’m looking to collaborate on apple
 - 📫 How to reach me kavinkumarait@gmail.com
 
